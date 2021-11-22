@@ -131,5 +131,25 @@ var GAME_LEVELS = [
    "                                                                                ",
    "                                                                                ",
    "                                                                                "
+  ],
+  [
+   "                                                                                                                                              ",
+   "xxxxxx  xxxx                                                                                                                                            ",
+   "x!!!!x  x!!x                                                                                                                                 ",
+   "x!!!!x  x!!x                                                                                                                                         ",
+   " vvvv    vv                                                                                                                                           ",
+   "                                                                                                                                          ",
+   "                     !  !               x!                                                                                                   ",
+   "                     x  x              xx                                                                        ",
+   "      @              xooxo xo         xxxo                                                                         ",
+   "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                                                          xxxx                                                                 ",
+   "                                                xx              !                                                            x!!!!!!!xxxxxxo        ",
+   "                                                xxxo            x                                                                                           ",
+   "                                                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                                                                            ",
+   "                                                                                                                                              ",
+   "                                                                                                                                              ",
+   "                                                                                                                                              ",
+   "                                                                                                                                              ",
+   "                                                                                                                                              ",
   ]
 ];
